@@ -1,0 +1,17 @@
+.chat {
+  flex: 0.7;
+}
+
+.chat__header {
+  padding: 10px 10px 2px;
+}
+
+.chat__headerLeft > h4 {
+  font-size: 19px;
+}
+
+.chat__channelName > h3 {
+  font-size: 17px;
+
+  color: black;
+}

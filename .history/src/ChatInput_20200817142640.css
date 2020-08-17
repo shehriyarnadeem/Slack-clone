@@ -1,0 +1,11 @@
+.chatInput {
+  border-radius: 20px;
+}
+
+.chatInput > form > textarea {
+  border-radius: 3px;
+  border: 1px solid gray;
+  padding: 20px;
+  flex-direction: column;
+  align-self: flex-end;
+}

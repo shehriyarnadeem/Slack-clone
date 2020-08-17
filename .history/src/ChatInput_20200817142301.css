@@ -1,0 +1,17 @@
+.chatInput {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+
+.chatInput > form > textarea {
+  border-radius: 3px;
+  border: 1px solid gray;
+
+  flex-direction: column;
+  align-self: flex-end;
+}
+
+.chatInput > form > button {
+  display: none !important;
+}

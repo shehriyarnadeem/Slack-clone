@@ -1,0 +1,9 @@
+.chatInput {
+  border-radius: 3px;
+  border: 1px solid gray;
+  width: 60%;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-end;
+}
